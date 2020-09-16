@@ -1,13 +1,13 @@
 # Procesverslag
-**Auteur:** Merel Jansma
+**Auteur:** -jouw naam-
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
 
 
 ## Bronnenlijst
-1. https://www.zara.com/nl/ voorbeeld
-2. https://unsplash.com/ afbeeldingen
+1. -bron 1-
+2. -bron 2-
 3. -...-
 
 
@@ -38,11 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-goed:
-de basis html code ging goed, ik wist wat ik er allemaal in wilde hebben. 
-
-minder goed:
-mijn tekst wil niet naar beneden. Bij elke foto op de pagina moet tekst komen te staan. Bij de eerste foto staat het goed, alleen als ik dan de tekst van de tweede foto toevoeg dan staat alles door elkaar. Ik krijg het dan niet naar beneden. Ik probeer gebuik te maken van de ..-of-type, maar dat vind ik toch wel lastig. Misschien zit daar het probleem ook wel. 
+-dit ging goed & dit was lastig-
 
 **Screenshot(s):**
 
@@ -64,7 +60,7 @@ mijn tekst wil niet naar beneden. Bij elke foto op de pagina moet tekst komen te
 
 **Je focus:** responsive
 
-**Je opdracht:** https://www.zara.com/nl/
+**Je opdracht:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s):**
 
