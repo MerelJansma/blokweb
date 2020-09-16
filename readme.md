@@ -38,11 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-goed:
+Goed:
 de basis html code ging goed, ik wist wat ik wilde toevoegen.
 
-minder goed:
-Mijn tekst wil niet naar beneden. Bij alle afbeeldingen moet een stukje tekst. Bij de eerste afbeelding gaat dat goed, de tekst staat waar het moet staan. Alleen wanneer ik de tekst voor de tweede afbeelding wil toevoegen staat alles door elkaar. Ik krijg het dan niet naar beneden. Ik wilde gebruik maken van de ..-of-type, maar dat vind ik toch nog wel lastig. Misschien ligt daar het probleem van de tekst ook wel. 
+Minder goed:
+mijn tekst wil niet naar beneden. Bij alle afbeeldingen moet een stukje tekst. Bij de eerste afbeelding gaat dat goed, de tekst staat waar het moet staan. Alleen wanneer ik de tekst voor de tweede afbeelding wil toevoegen staat alles door elkaar. Ik krijg het dan niet naar beneden. Ik wilde gebruik maken van de ..-of-type, maar dat vind ik toch nog wel lastig. Misschien ligt daar het probleem van de tekst ook wel. 
 
 **Screenshot(s):**
 
