@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
+1. https://www.zara.com/nl/
+2. https://unsplash.com/
 3. -...-
 
 
@@ -38,7 +38,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+goed:
+de basis html code ging goed, ik wist wat ik er allemaal in wilde hebben. 
+
+minder goed:
+mijn tekst wil niet naar beneden. Bij elke foto op de pagina moet tekst komen te staan. Bij de eerste foto staat het goed, alleen als ik dan de tekst van de tweede foto toevoeg dan staat alles door elkaar. Ik krijg het dan niet naar beneden. Ik probeer gebuik te maken van de ..-of-type, maar dat vind ik toch wel lastig. Misschien zit daar het probleem ook wel. 
 
 **Screenshot(s):**
 
