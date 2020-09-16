@@ -6,8 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. https://www.zara.com/nl/
-2. https://unsplash.com/
+1. https://www.zara.com/nl/ voorbeeld
+2. https://unsplash.com/ afbeeldingen
 3. -...-
 
 
