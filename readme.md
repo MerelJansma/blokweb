@@ -30,7 +30,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Goed:
+Ik heb eindelijk mijn tekst goed gekregen per afbeelding. 
+
+### Agenda voor meeting
+- ...
+
+### Verslag van meeting
+...
 
 
 
@@ -50,11 +59,23 @@ mijn tekst wil niet naar beneden. Bij alle afbeeldingen moet een stukje tekst. B
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Luuk: 
+- Z-Index voor overlay van images.
+- Tips en Tricks javascript.
+
+Salwa:
+- Hoe je een nav kan veranderen in een hamburger menu wanneer het scherm kleiner wordt.
+
+Tessa:
+- Kan je met media queries bepalen of er sprake is van een touchscreen of desktop? En zo ja welke?
+
+Merel:
+- nth-of-type.
+- Hoe krijg je het menu zo dat je er alleen overheen hoeft te gaan met je muis om het te openen. (dus zonder erop te klikken).
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+Ik loop iets achter, maar dat wist ik zelf eigenlijk al. Verder heb  ik twee vragen gesteld. Voor mijn menu moet ik javascript gaan gebruiken (mouse over). Verder heb ik overal position absolute staan alleen wilde mijn teksten daardoor niet naar beneden, dus moet het veranderd worden naar relative.  
 
 
 

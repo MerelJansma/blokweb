@@ -27,18 +27,26 @@ li:nth-of-type(1) {
 
 li:nth-of-type(2) {
     position: absolute;
-    right: 8em;
+    right: 9em;
     top: 0;
     margin: 0; padding: 0.5em;
 }
 
 li:nth-of-type(3) {
     position: absolute;
-    right: 0;
+    right: 2em;
     top: 0;
     margin: 0; padding: 0.5em;
 }
 
+
+
+section{
+    margin: 0;
+    padding: 0;
+    
+    height: 638px;
+}
 
 
 /* afb voor de 1e section*/
@@ -46,18 +54,22 @@ img:nth-of-type(1) {
     margin: 0;
     padding: 0;
     
+    margin-top: -1em;
+    margin-left: -1em;
+    
     width: 100%;
 }
 
 
 
 /*voor link*/
-a{
+a {
     text-decoration: none;
     
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
-    color: rgb(0, 182, 214);
+    color: white;
+/*    color: rgb(0, 182, 214);*/
     text-shadow: 0 0 1em #ffffff;
 }
 
@@ -65,7 +77,7 @@ a{
 
 /*tekst voor de 1e section*/
 h1:nth-of-type(1) {
-    position: absolute;
+    position: relative;
     
     text-align: center;
     
@@ -73,8 +85,8 @@ h1:nth-of-type(1) {
     padding: 0.5;
     
     width: 5em;
-    top: 35%;
-    left: calc(50% - 2.5em);
+    top: -10.5em;
+    left: calc(50% - 3em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
@@ -84,16 +96,16 @@ h1:nth-of-type(1) {
 
 
 p:nth-of-type(1) {
-    position: absolute;
+    position: relative;
     
     text-align: center;
     
     margin: 0;
-    padding: 0.5;
+    padding: 0;
     
     width: 20em;
-    top: 44%;
-    left: calc(50% - 10em);
+    top: -23.5em;
+    left: calc(50% - 11em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -103,16 +115,16 @@ p:nth-of-type(1) {
 }
 
 p:nth-of-type(2) {
-    position: absolute;
+    position: relative;
     
     text-align: center;
     
     margin: 0;
-    padding: 0.5;
+    padding: 0;
     
     width: 20em;
-    top: 53%;
-    left: calc(50% - 10em);
+    top: -23em;
+    left: calc(50% - 11em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -122,9 +134,35 @@ p:nth-of-type(2) {
 
 
 
-/*tekst voor de 2e section*/
-h1:nth-of-type(2) {
+
+/*opties heren dames kinderen home*/
+.opties {
     position: absolute;
+    
+    text-align: center;
+    justify-content: space-between;
+    
+    margin: 0;
+    padding: 0;
+    
+    width: 18em;
+    top: 25.5em;
+    
+    text-decoration: none;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: white;
+/*    color: rgb(0, 182, 214);*/
+    text-shadow: 0 0 1em #ffffff;
+}
+
+
+
+/*tekst voor de 2e section*/
+/*
+h1:nth-of-type(2) {
+    position: relative;
     
     text-align: center;
     
@@ -144,19 +182,25 @@ p:nth-of-type(3) {
 p:nth-of-type(4) {
     
 }
+*/
 
 
 
 /*afb voor de 2e section*/
+/*
 img:nth-of-type(2) {
     margin: 0;
     padding: 0;
     
+    top: -20em;
+    
     width: 100%;
     
 }
+*/
 
 /*afb voor de 3e section*/
+/*
 img:nth-of-type(3) {
     margin: 0;
     padding: 0;
@@ -164,5 +208,6 @@ img:nth-of-type(3) {
     width: 100%;
     
 }
+*/
 
 
