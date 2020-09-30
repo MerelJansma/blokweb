@@ -27,18 +27,17 @@ li:nth-of-type(1) {
 
 li:nth-of-type(2) {
     position: absolute;
-    right: 9em;
+    right: 11em;
     top: 0;
     margin: 0; padding: 0.5em;
 }
 
 li:nth-of-type(3) {
     position: absolute;
-    right: 2em;
+    right: 4em;
     top: 0;
     margin: 0; padding: 0.5em;
 }
-
 
 
 section{
@@ -63,7 +62,7 @@ img:nth-of-type(1) {
 
 
 /*voor link*/
-a {
+a { 
     text-decoration: none;
     
     font-family: 'Oswald', sans-serif;
@@ -71,6 +70,7 @@ a {
     color: white;
 /*    color: rgb(0, 182, 214);*/
     text-shadow: 0 0 1em #ffffff;
+    
 }
 
 
@@ -86,7 +86,7 @@ h1:nth-of-type(1) {
     
     width: 5em;
     top: -10.5em;
-    left: calc(50% - 3em);
+    left: calc(50% - 3.5em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
@@ -103,9 +103,9 @@ p:nth-of-type(1) {
     margin: 0;
     padding: 0;
     
-    width: 20em;
+    width: 16em;
     top: -23.5em;
-    left: calc(50% - 11em);
+    left: calc(50% - 10em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -124,7 +124,7 @@ p:nth-of-type(2) {
     
     width: 20em;
     top: -23em;
-    left: calc(50% - 11em);
+    left: calc(50% - 12em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -140,7 +140,6 @@ p:nth-of-type(2) {
     position: absolute;
     
     text-align: center;
-    justify-content: space-between;
     
     margin: 0;
     padding: 0;
@@ -156,6 +155,94 @@ p:nth-of-type(2) {
 /*    color: rgb(0, 182, 214);*/
     text-shadow: 0 0 1em #ffffff;
 }
+
+
+
+
+
+/*footer*/
+.link {
+    position: relative;
+    
+    text-align: center;
+/*    justify-content: space-between;*/
+    
+    margin: 0;
+    padding: 0;
+    
+    margin-bottom: 1em;
+    margin-left: 1.5em;
+    
+    width: 22em;
+    bottom: -22em;
+    
+    text-decoration: none;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 14px;
+    color: black;
+/*    color: rgb(0, 182, 214);*/
+/*    text-shadow: 0 0 1em #ffffff;*/
+}
+
+/*
+.footer {
+    position: relative;
+    
+    text-align: center;
+    justify-content: space-between;
+    
+    margin: 0;
+    padding: 0;
+    
+    margin-bottom: 25.7em;
+    margin-left: 1.5em;
+    
+    top: 20em;
+    
+    width: 22em;
+    bottom: -3em;
+    
+    text-decoration: none;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 182, 214);
+    text-shadow: 0 0 1em #ffffff;
+}
+*/
+
+
+
+/*
+li:nth-of-type(4) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0; padding: 0.5em;
+}
+
+li:nth-of-type(5) {
+    position: absolute;
+    left: -10em;
+    top: 0;
+    margin: 0; padding: 0.5em;
+}
+
+li:nth-of-type(6) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0; padding: 0.5em;
+}
+
+li:nth-of-type(7) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin: 0; padding: 0.5em;
+}
+*/
 
 
 
