@@ -27,14 +27,14 @@ li:nth-of-type(1) {
 
 li:nth-of-type(2) {
     position: absolute;
-    right: 11em;
+    right: 8em;
     top: 0;
     margin: 0; padding: 0.5em;
 }
 
 li:nth-of-type(3) {
     position: absolute;
-    right: 4em;
+    right: 0;
     top: 0;
     margin: 0; padding: 0.5em;
 }
@@ -44,19 +44,21 @@ section{
     margin: 0;
     padding: 0;
     
-    height: 638px;
+    height: 667px;
 }
 
 
 /* afb voor de 1e section*/
-img:nth-of-type(1) {
+.imgg {
     margin: 0;
     padding: 0;
     
     margin-top: -1em;
-    margin-left: -1em;
+    margin-left: -2em;
+/*    margin-right: -1em;*/
     
-    width: 100%;
+    width: 111%;
+    height: 111%;
 }
 
 
@@ -74,9 +76,9 @@ a {
 }
 
 
-
+/*:nth-of-type(1)*/
 /*tekst voor de 1e section*/
-h1:nth-of-type(1) {
+.h1 {
     position: relative;
     
     text-align: center;
@@ -85,8 +87,8 @@ h1:nth-of-type(1) {
     padding: 0.5;
     
     width: 5em;
-    top: -10.5em;
-    left: calc(50% - 3.5em);
+    top: -13em;
+    left: calc(50% - 2.5em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 40px;
@@ -95,7 +97,7 @@ h1:nth-of-type(1) {
 }
 
 
-p:nth-of-type(1) {
+.p1 {
     position: relative;
     
     text-align: center;
@@ -104,8 +106,8 @@ p:nth-of-type(1) {
     padding: 0;
     
     width: 16em;
-    top: -23.5em;
-    left: calc(50% - 10em);
+    top: -28em;
+    left: calc(50% - 8em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -114,7 +116,7 @@ p:nth-of-type(1) {
     
 }
 
-p:nth-of-type(2) {
+.p2 {
     position: relative;
     
     text-align: center;
@@ -123,8 +125,8 @@ p:nth-of-type(2) {
     padding: 0;
     
     width: 20em;
-    top: -23em;
-    left: calc(50% - 12em);
+    top: -27.5em;
+    left: calc(50% - 10em);
     
     font-family: 'Oswald', sans-serif;
     font-size: 18px;
@@ -133,19 +135,46 @@ p:nth-of-type(2) {
 }
 
 
+.a {
+    position: relative;
+    
+/*    text-align: center;*/
+    
+    margin: 0;
+    padding: 0.2em 1em 0.2em 1em;
+    
+    top: -26em;
+    left: calc(50% - 2.2em);
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    color: white;
+    text-shadow: 0 0 1em #000000;
+    
+    border: solid;
+    border-width: medium;
+    border-color: rgb(0, 182, 214);
+}
+
+
+
+
 
 
 /*opties heren dames kinderen home*/
 .opties {
-    position: absolute;
+    position: relative;
+    position: fixed;
     
     text-align: center;
     
     margin: 0;
     padding: 0;
     
-    width: 18em;
-    top: 25.5em;
+    left: 1.8em;
+    
+    width: 15em;
+    top: 30em;
     
     text-decoration: none;
     
@@ -155,6 +184,13 @@ p:nth-of-type(2) {
 /*    color: rgb(0, 182, 214);*/
     text-shadow: 0 0 1em #ffffff;
 }
+
+
+/*optie dames*/
+.dames {
+    left: 5.3em;
+}
+
 
 
 
@@ -169,12 +205,13 @@ p:nth-of-type(2) {
     
     margin: 0;
     padding: 0;
+    left: 1em;
     
     margin-bottom: 1em;
     margin-left: 1.5em;
     
     width: 22em;
-    bottom: -22em;
+    top: -30em;
     
     text-decoration: none;
     
@@ -184,6 +221,382 @@ p:nth-of-type(2) {
 /*    color: rgb(0, 182, 214);*/
 /*    text-shadow: 0 0 1em #ffffff;*/
 }
+
+
+.footer {
+    position: relative;
+    
+    top: 40em;
+}
+
+
+/*footer facebook*/
+.facebook {
+    left: 7em;
+}
+
+
+
+
+
+
+/*PAGINA 2*/
+/*nav*/
+.navv {
+    color: black;
+}
+
+
+/*afbeelding 1*/
+.item1 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: 1.5em;
+    
+    width: 100%;
+    height: 65%;
+    
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    justify-items: center;
+    
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.trend {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0.5;
+    
+    top: 2.5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 182, 214);
+    text-shadow: 0 0 1em #ffffff;
+}
+
+
+.trend1 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: 5em;
+    
+/*
+    width: 16em;
+    top: -28em;
+    left: calc(50% - 8em);
+*/
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+/*    text-shadow: 0 0 1em #000000;*/
+}
+
+
+
+/*section 2*/
+.item2 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: 0.5em;
+    
+    height: 45%;
+    width: 48%;
+}
+
+
+.item3 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: 4em;
+    left: 0.2em;
+    
+    width: 50%;
+    height: 45%;
+}
+
+
+.nieuw {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0.5;
+    
+    top: 3em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+/*    text-shadow: 0 0 1em #ffffff;*/
+}
+
+.kleding {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: 5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+.prijs {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: 5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+
+
+
+/*section 3*/
+.item4 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: -13em;
+    left: 4.4em;
+    
+    height: 60%;
+    width: 63%;
+}
+
+
+.nieuw1 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0.5;
+    
+    top: -10.5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+/*    text-shadow: 0 0 1em #ffffff;*/
+}
+
+.kleding1 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -19.5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+.prijs1 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -19.5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+
+
+/*section 4*/
+.item5 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: -18em;
+    
+    height: 45%;
+    width: 48%;
+}
+
+
+.item6 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: -22em;
+    left: 0.2em;
+    
+    width: 50%;
+    height: 45%;
+}
+
+
+.nieuw2 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0.5;
+    
+    top: -14.5em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+/*    text-shadow: 0 0 1em #ffffff;*/
+}
+
+.kleding2 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -26.7em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+.prijs2 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -26.7em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+
+
+
+/*section 5*/
+.item7 {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    
+    top: -34em;
+    left: 4.4em;
+    
+    height: 60%;
+    width: 63%;
+}
+
+
+.nieuw3 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0.5;
+    
+    top: -27.3em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+/*    text-shadow: 0 0 1em #ffffff;*/
+}
+
+.kleding3 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -50em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+.prijs3 {
+    position: relative;
+    
+    text-align: center;
+    
+    margin: 0;
+    padding: 0;
+    
+    top: -50em;
+    
+    font-family: 'Oswald', sans-serif;
+    font-size: 11px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 .footer {
