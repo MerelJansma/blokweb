@@ -23,7 +23,9 @@ Ik had soms wat problemen met stukken code, omdat het dan gewoon niet deed wat i
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+[screenshot van mijn website](images/10.png)
+[screenshot van mijn website](images/11.png)
+[screenshot van mijn website](images/12.png)
 
 
 ## Voortgang 2 (week 5)
@@ -84,12 +86,11 @@ Ik loop iets achter, maar dat wist ik zelf eigenlijk al. Verder heb  ik twee vra
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/13.png) 
-[screenshot(s) die een goed beeld geven van de website die je gaat maken](images/14.png) 
+![screenshot van de originele website](images/13.png) 
+[screenshot van de originele website](images/14.png)  
 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/10.png)
-[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/11.png)
-[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/12.png)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/15.jpg)
+
