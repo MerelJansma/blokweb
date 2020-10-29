@@ -23,9 +23,9 @@ Ik had soms wat problemen met stukken code, omdat het dan gewoon niet deed wat i
 
 **Screenshot(s):**
 
-[screenshot van mijn website](images/10.png)
-[screenshot van mijn website](images/11.png)
-[screenshot van mijn website](images/12.png)
+![screenshot van mijn website](images/10.png)
+![screenshot van mijn website](images/11.png)
+![screenshot van mijn website](images/12.png)
 
 
 ## Voortgang 2 (week 5)
@@ -87,7 +87,7 @@ Ik loop iets achter, maar dat wist ik zelf eigenlijk al. Verder heb  ik twee vra
 **Screenshot(s):**
 
 ![screenshot van de originele website](images/13.png) 
-[screenshot van de originele website](images/14.png)  
+![screenshot van de originele website](images/14.png)  
 
 
 **Breakdown-schets(en):**
