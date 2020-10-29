@@ -76,7 +76,7 @@ Ik loop iets achter, maar dat wist ik zelf eigenlijk al. Verder heb  ik twee vra
 
 ## Intake (week 1)
 
-**Je startniveau:** rood
+**Je startniveau:** blauw/rood
 
 **Je focus:** surface plane
 
@@ -84,9 +84,12 @@ Ik loop iets achter, maar dat wist ik zelf eigenlijk al. Verder heb  ik twee vra
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/13.png)(images/14.png) 
+![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/13.png) 
+[screenshot(s) die een goed beeld geven van de website die je gaat maken](images/14.png) 
 
 
 **Breakdown-schets(en):**
 
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
+![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/10.png)
+[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/11.png)
+[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/12.png)
