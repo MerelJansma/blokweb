@@ -199,17 +199,20 @@ a {
 
 /*opties heren dames kinderen home*/
 .opties {
-    position: relative;
+/*    position: relative;*/
     position: fixed;
     
-    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+/*    text-align: center;*/
     
     margin: 0;
     padding: 0;
     
-    left: 1.8em;
+/*    left: 1.8em;*/
     
-    width: 15em;
+    width: 100%;
     top: 30em;
     
     text-decoration: none;
@@ -223,9 +226,11 @@ a {
 
 
 /*optie dames*/
+/*
 .dames {
     left: 5.3em;
 }
+*/
 
 
 
@@ -234,20 +239,24 @@ a {
 
 /*footer*/
 .link {
-    position: relative;
+/*    position: relative;*/
     
-    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+/*    text-align: center;*/
 /*    justify-content: space-between;*/
     
     margin: 0;
     padding: 0;
-    left: 1em;
+/*    left: 1em;*/
     
+/*
     margin-bottom: 1em;
     margin-left: 1.5em;
+*/
     
-    width: 22em;
-    top: -30em;
+/*    width: 22em;*/
     
     text-decoration: none;
     
@@ -262,14 +271,19 @@ a {
 .footer {
     position: relative;
     
+    margin: 0;
+    padding: 0;
+    
     top: 40em;
 }
 
 
 /*footer facebook*/
+/*
 .facebook {
     left: 7em;
 }
+*/
 
 
 
@@ -308,7 +322,7 @@ a {
     text-align: center;
     
     margin: 0;
-    padding: 0.5;
+/*    padding: 0.5;*/
     
     top: 2.5em;
     
@@ -624,12 +638,65 @@ a {
 
 
 
+/*Javascript*/
 .new {
     color: rgb(252, 177, 3);
-    background-color: white;
+}
+
+.new1 {
+    color: rgb(52, 235, 100);
+}
+
+.new2 {
+    color: rgb(110, 52, 235);
+}
+
+.new3 {
+    color: rgb(214, 52, 235);
 }
 
 
+/*interachties*/
+.trend:hover {
+    color: rgb(235, 52, 119);
+    
+}
+
+.item2:hover, .item3:hover, .item4:hover, .item5:hover, .item6:hover, .item7:hover {
+/*
+    border: solid;
+    border-width: thick;
+    border-color: rgb(0, 182, 214);
+*/
+    box-shadow: 0 0 3em rgb(235, 52, 119);
+}
+
+.a:hover {
+    border: solid;
+    border-width: thick;
+    border-color: rgb(252, 177, 3);
+}
+
+
+/*animatie*/
+@keyframes h1 {
+    0% {color: rgb(0, 182, 214)}
+    20% {color: rgb(252, 177, 3)}
+    40% {color: rgb(52, 89, 235)}
+    60% {color: rgb(110, 52, 235)}
+    80% {color: rgb(214, 52, 235)}
+    100% {color: rgb(0, 182, 214)}
+    
+/*
+    from {color: rgb(252, 177, 3)}
+    to {color: rgb(52, 89, 235)}
+*/
+}
+    
+.h1:hover {
+    animation-name: h1;
+    animation-duration: 3s;
+}
 
 
 

@@ -7,9 +7,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. https://www.zara.com/nl/ voorbeeld
-2. https://unsplash.com/ afbeeldingen
+2. https://unsplash.com/ afbeeldingen (ook de afbeeldingen in de video)
 3. https://www.w3schools.com/ 
 4. https://developer.mozilla.org/nl/ 
+
+
+
+## Feedback eindgesprek (week 7/8)
+Ik moet voor de herkansing nog wat interacties toevoegen aan de site. Bijvoorbeeld een animatie. Ook werkte mijn javascript nog niet, dus daar moet ik even twee dingen omdraaien om het wel te laten werken. 
+Mijn code was netjes, dus daar hoef ik verder niets meer aan te veranderen. 
 
 
 
